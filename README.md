@@ -1,9 +1,11 @@
 
-#URL
-Azure:
-https://portal.azure.com/#@jesusjimenez5049alumnosudg.onmicrosoft.com/resource/subscriptions/49dd1208-d5cd-49ab-a658-ecb6e6394680/resourcegroups/cloud-shell-storage-southcentralus/providers/Microsoft.Web/sites/odoo-docker-compose/appServices
-Proyecto Odoo:
-https://odoo-docker-compose-dsbchpa9a6debjb6.canadacentral-01.azurewebsites.net/
+# URL
+[Azure:](https://portal.azure.com/#@jesusjimenez5049alumnosudg.onmicrosoft.com/resource/subscriptions/49dd1208-d5cd-49ab-a658-ecb6e6394680/resourcegroups/cloud-shell-storage-southcentralus/providers/Microsoft.Web/sites/odoo-docker-compose/appServices)
+
+[Proyecto Odoo:] (https://odoo-docker-compose-dsbchpa9a6debjb6.canadacentral-01.azurewebsites.net/)
+
+user: admin
+password: admin
 
 ## Qué es Odoo?
 
