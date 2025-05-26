@@ -1,4 +1,11 @@
-# Odoo
+
+#URL
+Azure:
+https://portal.azure.com/#@jesusjimenez5049alumnosudg.onmicrosoft.com/resource/subscriptions/49dd1208-d5cd-49ab-a658-ecb6e6394680/resourcegroups/cloud-shell-storage-southcentralus/providers/Microsoft.Web/sites/odoo-docker-compose/appServices
+Proyecto Odoo:
+https://odoo-docker-compose-dsbchpa9a6debjb6.canadacentral-01.azurewebsites.net/
+
+## Qué es Odoo?
 
 [![Build Status](https://runbot.odoo.com/runbot/badge/flat/1/master.svg)](https://runbot.odoo.com/runbot)
 [![Tech Doc](https://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/documentation/master)
